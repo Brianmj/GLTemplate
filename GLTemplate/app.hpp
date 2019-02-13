@@ -9,7 +9,7 @@
 
 #ifdef _WIN32
 #define MAJOR_VERSION 4
-#define MINOR_VERSION 5
+#define MINOR_VERSION 6
 #endif
 #ifdef __APPLE__
 #include <OpenGL/gl3.h>
