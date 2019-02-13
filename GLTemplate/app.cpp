@@ -16,7 +16,7 @@ void main_app::draw_scene()
 	glClearBufferfv(GL_COLOR, 0, clearColorVal);
 	glClearBufferfv(GL_DEPTH, 0, &clearDepthVal);
 
-        
+    
 }
 
 void main_app::process_inputs(knu_time delta_time)
